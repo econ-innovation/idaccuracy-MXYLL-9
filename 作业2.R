@@ -32,3 +32,6 @@ print(head(data)
       
 # 
 write_csv(data,"data_list.csv")
+
+
+
